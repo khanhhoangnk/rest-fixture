@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+#labels rest,fixture
+
+= Introduction =
+
+A fixture for customer acceptance tests of REST APIs.
+
+= Details =
+
+See http://smartrics.blogspot.com/2008/08/get-fitnesse-with-some-rest.html for more details
