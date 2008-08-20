@@ -1,0 +1,2 @@
+#labels fitnesse
+http://fitnesse.org
